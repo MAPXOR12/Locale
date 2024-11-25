@@ -1,0 +1,16 @@
+{
+  "name": "my-language-package",
+  "version": "1.0.0",
+  "description": "A multilingual package for use in web projects.",
+  "main": "index.js",
+  "files": [
+    "locales"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/my-language-package.git"
+  },
+  "keywords": ["i18n", "localization", "languages", "translations"],
+  "author": "Your Name",
+  "license": "MIT"
+}
