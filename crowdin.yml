@@ -1,0 +1,6 @@
+project_id: "your-project-id"
+api_token: "your-api-token"
+base_path: "./locales"
+files:
+  - source: "/en/*.json"
+    translation: "/%two_letters_code%/%original_file_name%"
